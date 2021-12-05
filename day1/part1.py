@@ -1,3 +1,4 @@
+# Part 1
 file = open("day1/input.txt", "r")
 
 notDone = True
